@@ -57,6 +57,7 @@ header {
   margin-bottom: 10px;
   display: flex;
   flex-flow: row wrap;
+  width: 100%;
 }
 
 body > * {
