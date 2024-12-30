@@ -2,7 +2,9 @@
 
 ## 📝 **Project Description**
 
-I'm just following the instructions and templates from the [Mozilla Development Network (MDN) tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)! The goal is to learn and apply best practices for enhancing web page structures using semantic markup, ARIA labeling, and CSS formatting. 
+I'm just following the instructions and templates from the [Mozilla Development Network (MDN) tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)! 
+
+The goal is to learn and apply best practices for enhancing web page structures using semantic markup, ARIA labeling, and CSS formatting. 
 
 
 <br>
